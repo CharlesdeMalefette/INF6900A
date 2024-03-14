@@ -1,0 +1,14 @@
+*.aux
+*.pdf
+*.log
+*.bbl
+*.blg
+*.tmp
+*.bak
+*.out
+*.fls
+*.fdb_latexmk
+*~
+\#*
+*\#
+.DS_Store
